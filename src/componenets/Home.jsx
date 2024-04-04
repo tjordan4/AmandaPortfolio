@@ -1,6 +1,6 @@
-export default function homepage (
+export default function ArtDisplay (
 
     return <>
-    
+        
     </>
 )
